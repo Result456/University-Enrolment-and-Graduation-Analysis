@@ -2,7 +2,13 @@
 ### SQL Data Analysis | MySQL | Power BI
 
 ## Project Overview
+## Dashboard Preview
 
+### Dashboard 1
+![University Enrolment Dashboard](University_Enrolment_Dashboard.png)
+
+### Dashboard 2
+![University Enrolment Dashboard 2](University_Enrolment_Dashboard_2.png)
 This project focuses on analysing student enrolment data from South African public universities between 2009 and 2016.
 
 The purpose of the analysis is to explore enrolment patterns, understand changes in student headcounts and Full-Time Equivalent (FTE) enrolments, and identify trends across different universities over time.
